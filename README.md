@@ -2,7 +2,7 @@
 <div align="center">
   <samp>
     <b>
-      May the Force be with you.
+      May the force be with you.
       <br>
       Hello there, I'm Luiz Fonseca ! <img src="https://media.tenor.com/KrFvtJ_zkrYAAAAi/stormtrooper-imperial.gif" width="15">
       <br>
